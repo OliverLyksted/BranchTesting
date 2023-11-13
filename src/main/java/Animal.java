@@ -4,5 +4,5 @@ public abstract class Animal {
 
     public abstract void makeSound();
 
-    public abstract boolean eat(String Food);
+    public abstract boolean eat(String FoodType);
 }
